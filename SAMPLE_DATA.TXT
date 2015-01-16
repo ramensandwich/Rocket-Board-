@@ -1,0 +1,379 @@
+Start time: 737
+Current time: 967
+Temperature: -1766.20
+Altitude: -3277.56
+Time: 1058
+YPR: 24 27 212
+Current time: 1190
+Temperature: -1766.20
+Altitude: -3277.56
+Start time: 518
+Current time: 739
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 961
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 1184
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 1406
+Temperature: -1766.20
+Altitude: -3277.56
+Time: 1615
+YPR: 24 27 212
+Current time: 1630
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 1858
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 2081
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 2304
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 2527
+Temperature: -1766.20
+Altitude: -3277.56
+Time: 2698
+YPR: 24 27 212
+Current time: 2750
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 2972
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 3195
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 3419
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 3647
+Temperature: -1766.20
+Altitude: -3277.56
+Time: 3758
+YPR: 24 27 212
+Current time: 3870
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 4092
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 4316
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 4538
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 4761
+Temperature: -1766.20
+Altitude: -3277.56
+Time: 4840
+YPR: 24 27 212
+Current time: 4984
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 5213
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 5436
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 5658
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 5881
+Temperature: -1766.20
+Altitude: -3277.56
+Time: 5921
+YPR: 24 27 212
+Current time: 6105
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 6327
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 6550
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 6772
+Temperature: -1766.20
+Altitude: -3277.56
+Time: 6984
+YPR: 24 27 212
+Current time: 7002
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 7224
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 7447
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 7669
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 7892
+Temperature: -1766.20
+Altitude: -3277.56
+Time: 8068
+YPR: 24 27 212
+Current time: 8116
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 8338
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 8566
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 8790
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 9013
+Temperature: -1766.20
+Altitude: -3277.56
+Time: 9149
+YPR: 24 27 212
+Current time: 9235
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 9458
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 9680
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 9904
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 10126
+Temperature: -1766.20
+Altitude: -3277.56
+Time: 10211
+YPR: 24 27 212
+Current time: 10356
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 10578
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 10802
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 11024
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 11247
+Temperature: -1766.20
+Altitude: -3277.56
+Time: 11293
+YPR: 24 27 212
+Current time: 11470
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 11694
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 11922
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 12145
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 12367
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 12601
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 12823
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 13046
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 13270
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 13492
+Temperature: -1766.20
+Altitude: -3277.56
+Time: 13585
+YPR: 13 15 206
+Current time: 13729
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 13953
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 14175
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 14398
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 14620
+Temperature: -1766.20
+Altitude: -3277.56
+Time: 14668
+YPR: 8 9 205
+Current time: 14844
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 15067
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 15295
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 15518
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 15741
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 34307
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 34529
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 34752
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 34974
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 35197
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 35437
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 35660
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 35883
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 36106
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 36328
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 36551
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 36773
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 36997
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 37225
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 37456
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 37680
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 37902
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 38125
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 38347
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 38569
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 38793
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 39021
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 39244
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 39467
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 39690
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 39912
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 40135
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 40357
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 40580
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 40809
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 41031
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 41254
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 41477
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 41700
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 41922
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 42145
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 42368
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 42596
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 42819
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 43041
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 43265
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 43487
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 43710
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 43942
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 44166
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 44394
+Temperature: -1766.20
+Altitude: -3277.56
+Current time: 44616
+Temperature: -1766.20
+Altitude: -3277.56
