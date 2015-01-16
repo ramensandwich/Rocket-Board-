@@ -1,1 +1,10 @@
-This is the Readme
+Rocket Board is a project with the purpose of collecting telemetry for a model rocket and analyzing it for the user.  Data collected during the flight on a microSD card will be read and displayed for the user a easy to read interface.  Due to the portable intentions of this project, all of these files have been written to be run on the Arduino micro to minimize weight and size.
+
+To set up Rocket Board for yourself, you’ll need:
+
+SD breakout
+MPU6050 breakout
+MPL3115A2 breakout
+
+MPL3115A2 library
+MPU6050 library
